@@ -90,10 +90,8 @@ Clone the repo in a fresh directory.
    npm run dev
    ```
 
-   Once the server is running successfully, go to:
+   Once the server is running successfully, to register your first user, go to:
 
    ```
    http://localhost:5173/register
    ```
-
-   to register your first user.
