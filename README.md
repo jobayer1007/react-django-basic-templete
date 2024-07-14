@@ -1,5 +1,3 @@
-Here is the complete `README.md` file with the code and instructions you provided:
-
 ````markdown
 # Project Setup
 
@@ -10,10 +8,10 @@ Clone the repo in a fresh directory.
 ## Backend Installation
 
 1. **Navigate to the Backend Directory**
+
    ```sh
    cd backend
    ```
-````
 
 2. **Check Python Version**
 
@@ -98,7 +96,4 @@ Clone the repo in a fresh directory.
    ```
 
    to register your first user.
-
-```
-
-```
+````
