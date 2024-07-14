@@ -1,4 +1,4 @@
-````markdown
+```markdown
 # Project Setup
 
 ## Clone the Repository
@@ -6,13 +6,13 @@
 Clone the repo in a fresh directory.
 
 ## Backend Installation
+```
 
 1. **Navigate to the Backend Directory**
 
    ```sh
    cd backend
    ```
-````
 
 2. **Check Python Version**
 
@@ -97,7 +97,3 @@ Clone the repo in a fresh directory.
    ```
 
    to register your first user.
-
-```
-
-```
