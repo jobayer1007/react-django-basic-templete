@@ -12,6 +12,7 @@ Clone the repo in a fresh directory.
    ```sh
    cd backend
    ```
+````
 
 2. **Check Python Version**
 
@@ -100,4 +101,3 @@ Clone the repo in a fresh directory.
 ```
 
 ```
-````
