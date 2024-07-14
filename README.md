@@ -96,4 +96,8 @@ Clone the repo in a fresh directory.
    ```
 
    to register your first user.
+
+```
+
+```
 ````
